@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Helloo"
+            />
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/img"
+            />
+
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/t1"
+            android:text="Submitted by sydney2023 on Tue, 04/05/2022 - 09:10
+
+I had the first test in psychology class last week. I was quite nervous that day as I really wanted to do well in that subject. I had to write a report about character research which I had done two weeks ago with the class students. The result and graphs about the results had been worked on and finalized the previous week, so I had to interpret the results and write the conclusion about it. I think I did alright but as I can notice easily here, I'm quite concerned about my spelling
+Submitted by sydney2023 on Tue, 04/05/2022 - 09:10
+
+I had the first test in psychology class last week. I was quite nervous that day as I really wanted to do well in that subject. I had to write a report about character research which I had done two weeks ago with the class students. The result and graphs about the results had been worked on and finalized the previous week, so I had to interpret the results and write the conclusion about it. I think I did alright but as I can notice easily here, I'm quite concerned about my spelling
+Submitted by sydney2023 on Tue, 04/05/2022 - 09:10"
+
+ />
+    </RelativeLayout>
+
+
+
+
+</ScrollView>
